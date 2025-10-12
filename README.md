@@ -17,10 +17,8 @@
 ---
 ## 🌱 **Actualmente**  
 
-- 📚 Aprendiendo Java y Programación Orientada a Objetos  
-
-- 🎨 Mejorando en maquetación web con HTML & CSS  
-
+- 📚 Aprendiendo Java y Programación Orientada a Objetos  </br>
+- 🎨 Mejorando en maquetación web con HTML & CSS  </br>
 - 🛠️ Practicando con bases de datos en SQL
 
 ---
