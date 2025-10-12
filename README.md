@@ -25,5 +25,8 @@
 🎨 Mejorando en maquetación web con HTML & CSS  
 
 🛠️ Practicando con bases de datos en SQL
+---
+## **Algunos de mis proyectos**  
+
 
 
