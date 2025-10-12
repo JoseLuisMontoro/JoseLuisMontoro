@@ -25,7 +25,7 @@
 ## 🚀 **Algunos de mis proyectos** 
 Estos proyectos los he hecho practicando con cursos de Udemy :smiley: </br>
 - :coffee: [Blog de Café](https://github.com/JoseLuisMontoro/Blog-de-cafe) </br>
-- :musical_note: [Festival de Música](
+- :musical_note: [Festival de Música](https://github.com/JoseLuisMontoro/Festival-de-M-sica) </br>
 
 
 
