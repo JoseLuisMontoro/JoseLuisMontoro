@@ -18,7 +18,7 @@
 > ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 > ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ---
-🌱 Actualmente  
+## 🌱 **Actualmente**  
 
 📚 Aprendiendo Java y Programación Orientada a Objetos  
 
