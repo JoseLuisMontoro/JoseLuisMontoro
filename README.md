@@ -23,7 +23,7 @@
 
 ---
 ## 🚀 **Algunos de mis proyectos** 
-- [:coffee: Blog de Café] https://github.com/JoseLuisMontoro/Blog-de-cafe </br>
+- :coffee: [Blog de Café] https://github.com/JoseLuisMontoro/Blog-de-cafe </br>
 - 
 
 
