@@ -20,11 +20,11 @@
 ---
 ## 🌱 **Actualmente**  
 
--📚 Aprendiendo Java y Programación Orientada a Objetos  
+- 📚 Aprendiendo Java y Programación Orientada a Objetos  
 
--🎨 Mejorando en maquetación web con HTML & CSS  
+- 🎨 Mejorando en maquetación web con HTML & CSS  
 
--🛠️ Practicando con bases de datos en SQL
+- 🛠️ Practicando con bases de datos en SQL
 
 ---
 ## 🚀 **Algunos de mis proyectos** 
