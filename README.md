@@ -6,7 +6,7 @@
 
 ✨ De cocinero a futuro desarrollador: de cuidar la alimentación a cuidar código.
 
-Aprendiendo cada día para crecer como desarrollador y aportar soluciones creativas
+🚀 Aprendiendo cada día para crecer como desarrollador y aportar soluciones creativas
 
 ---
 
