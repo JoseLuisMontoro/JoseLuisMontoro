@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-:sun_with_face: ¡Hola, soy Jose Luis!
-
-👩‍💻 **Estudiante de Desarrollo de Aplicaciones Web (DAW)**  
-✨ De cocinero a futuro desarrollador: de cuidar la alimentación a cuidar código.
+:sun_with_face: ¡Hola, soy Jose Luis!</br>
+👩‍💻 **Estudiante de Desarrollo de Aplicaciones Web (DAW)** </br> 
+✨ De cocinero a futuro desarrollador: de cuidar la alimentación a cuidar código.</br>
 🚀 Aprendiendo cada día para crecer como desarrollador y aportar soluciones creativas
 
 ---
