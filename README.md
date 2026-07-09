@@ -1,31 +1,30 @@
-## Hi there 👋
-
-## :sun_with_face: ¡Hola, soy Jose Luis!</br>
+## Hola, soy Jose Luis Montoro</br>
 👩‍💻 **Estudiante de Desarrollo de Aplicaciones Web (DAW)** </br> 
-✨ De cocinero a futuro desarrollador: de cuidar la alimentación a cuidar código.</br>
 🚀 Aprendiendo cada día para crecer como desarrollador y aportar soluciones creativas
-
+💻 Me apasiona el desarrollo web y actualmente estoy construyendo proyectos y aprendiendo tecnologías para seguir creciendo como desarrollador Full Stack.
 ---
 
-## 🛠️ Tecnologias y herramientas con las que estoy trabajando
-> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-> ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+## 🛠️ Tecnologias
+> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+> ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> 
 ---
-## 🌱 **Actualmente**  
+## 🚀 Actualmente
 
-- 📚 Aprendiendo Java y Programación Orientada a Objetos  </br>
-- 🎨 Mejorando en maquetación web con HTML & CSS  </br>
-- 🛠️ Practicando con bases de datos en SQL
+- 🎓 Finalizando DAW
+- 💻 Aprendiendo Java y JavaScript
+- 🐍 Certificado IBM SkillsBuild Python
+- 🏡 Diseñando RuralHub, mi Trabajo de Fin de Grado
 
 ---
-## 🚀 **Algunos de mis proyectos** 
-Estos proyectos los he hecho practicando con cursos de Udemy :smiley: </br>
-- :coffee: [Blog de Café](https://github.com/JoseLuisMontoro/Blog-de-cafe) </br>
-- :musical_note: [Festival de Música](https://github.com/JoseLuisMontoro/Festival-de-M-sica) </br>
+## 📫 Contacto
 
+💼 [LinkedIn](https://www.linkedin.com/in/jose-luis-montoro-895591417/)
 
-
+📧 [joseluisl3josee@gmail.com](mailto:joseluisl3josee@gmail.com)
